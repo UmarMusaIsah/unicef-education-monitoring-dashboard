@@ -1,0 +1,235 @@
+# UNICEF Education Monitoring Dashboard – Portfolio Case Study
+
+## Kano State, Nigeria
+
+---
+
+## 1. Executive Summary
+
+I developed a UNICEF-style Education Monitoring Dashboard to simulate a real-world education reporting system for Kano State, Nigeria.
+
+This project involved generating a large synthetic dataset using Python, cleaning and validating the data in Microsoft Excel, and building an interactive dashboard in Power BI.
+
+The dashboard enables stakeholders to monitor education performance, identify underserved communities, and support data-driven decision-making.
+
+---
+
+## 2. Business Problem
+
+Organizations such as UNICEF, NGOs, and government agencies require reliable education data to monitor key education indicators such as:
+
+* Student enrollment
+* Attendance rates
+* Gender inclusion
+* Infrastructure readiness
+* WASH indicators
+
+Without proper analytics systems, raw datasets become difficult to interpret, making decision-making slower and less effective.
+
+This project addresses that challenge by transforming raw education monitoring data into interactive dashboards that provide actionable insights.
+
+---
+
+## 3. Project Objective
+
+The main goal of this project was to build a professional reporting system capable of converting education monitoring data into visual insights for decision-makers.
+
+### Key Objectives
+
+* Monitor education performance across LGAs
+* Identify low-performing communities
+* Track gender disparities
+* Evaluate WASH readiness
+* Monitor trends over time
+* Support evidence-based decision-making
+
+---
+
+## 4. Data Collection Strategy
+
+Since access to real UNICEF education data was unavailable, I designed and generated a realistic synthetic dataset using Python.
+
+### Dataset Characteristics
+
+* **Total Records:** 7,500+
+* **Coverage:** 12 LGAs in Kano State
+* **Time Period:** 2024–2025
+* **School Categories:** Multiple
+* **Dataset Type:** Synthetic but realistic NGO-style monitoring data
+
+This approach allowed simulation of real reporting conditions while preserving analytical flexibility.
+
+---
+
+## 5. Technical Workflow
+
+```text
+Python → Excel → Power BI
+```
+
+### Python
+
+Used to generate realistic synthetic education monitoring data.
+
+### Excel
+
+Used for validation, cleaning, and structure review.
+
+### Power BI
+
+Used for:
+
+* Data modeling
+* Relationship creation
+* DAX calculations
+* Interactive visualizations
+* Dashboard design
+* KPI reporting
+
+---
+
+## 6. Dashboard Design
+
+The dashboard contains five analytical pages.
+
+### Page 1 — Executive Summary
+
+Provides high-level KPI overview:
+
+* Total Enrollment
+* Attendance Rate
+* Girls Percentage
+* Total Teachers
+* Dropouts
+
+### Page 2 — LGA Performance Analysis
+
+Compares education performance across Kano State LGAs to identify top-performing and underserved areas.
+
+### Page 3 — Gender & Inclusion
+
+Analyzes:
+
+* Girls enrollment
+* Female teacher distribution
+* Disability student inclusion
+* Gender parity indicators
+
+### Page 4 — Facilities & WASH
+
+Monitors:
+
+* Water access
+* Functional toilets
+* Learning materials
+* Infrastructure readiness
+
+### Page 5 — Performance Trends Over Time
+
+Tracks monthly changes in:
+
+* Enrollment
+* Attendance
+* Dropouts
+* WASH indicators
+
+---
+
+## 7. Key Insights
+
+### Insight 1 — Urban vs Rural Gap
+
+Urban LGAs consistently demonstrated stronger attendance and enrollment performance compared with rural LGAs.
+
+### Insight 2 — Gender Inclusion
+
+Girls participation improved in several LGAs, although rural communities still showed lower inclusion indicators.
+
+### Insight 3 — Infrastructure Challenges
+
+Schools in rural communities experienced lower water access and reduced learning material availability.
+
+---
+
+## 8. Challenges Encountered
+
+Several challenges were encountered during project development:
+
+* Building accurate data relationships
+* Handling many-to-many relationship issues in Power BI
+* Designing realistic synthetic datasets
+* Creating optimized DAX measures
+* Maintaining consistent dashboard layout and UX
+
+---
+
+## 9. Solutions Implemented
+
+The following solutions were implemented:
+
+* Created lookup tables to improve relationships
+* Optimized DAX calculations for KPI accuracy
+* Used slicers and custom tooltips for interactivity
+* Applied professional dashboard design principles
+* Improved navigation with page buttons
+
+These improvements enhanced usability, performance, and visual clarity.
+
+---
+
+## 10. Business Impact
+
+This dashboard demonstrates how education monitoring data can be transformed into actionable insights for:
+
+* UNICEF reporting
+* NGO program monitoring
+* Government planning
+* Donor reporting
+* Resource allocation
+* Policy decision-making
+
+The dashboard improves visibility into performance gaps and helps prioritize intervention areas.
+
+---
+
+## 11. Skills Demonstrated
+
+### Technical Skills
+
+* Python
+* Microsoft Excel
+* Power BI
+* DAX
+
+### Analytical Skills
+
+* Data Cleaning
+* Data Modeling
+* Dashboard Design
+* KPI Reporting
+* Data Storytelling
+* Business Analysis
+* Problem Solving
+
+---
+
+## 12. Final Outcome
+
+This project reflects my ability to design end-to-end analytics solutions, from raw data generation to executive-level dashboard reporting.
+
+It demonstrates practical capabilities relevant to roles in:
+
+* NGOs
+* UN Agencies
+* Monitoring & Evaluation (M&E)
+* Business Intelligence
+* Data Analytics
+
+The project showcases both technical and communication skills required to transform raw data into meaningful business insights.
+
+---
+
+## Author
+
+**Umar Musa Isah**
+**Data Analyst | Excel | SQL | Power BI | Python**
