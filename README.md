@@ -169,3 +169,7 @@ GitHub: https://github.com/UmarMusaIsah
 ---
 
 > Turning educational data into actionable insight.
+
+## Portfolio Navigation
+
+🔗 Master Portfolio: https://github.com/UmarMusaIsah/data-analytics-portfolio
